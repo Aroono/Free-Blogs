@@ -22,6 +22,7 @@
 - [x] [Markdown 语法说明](https://www.appinn.com/markdown/)
 - [x] [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 - [x] [Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac#%E5%8A%9F%E8%83%BD%E9%94%AE)
+- [x] [Taro 多端统一开发解决方案](https://taro.aotu.io/)
 
 </details>
 
@@ -33,6 +34,7 @@
 - [x] [infoQ](https://www.infoq.cn/topic/Front-end)
 - [x] [alloyteam](http://www.alloyteam.com/webdevelop/)
 - [x] [美团](https://tech.meituan.com/)
+- [x] [奇舞周刊](https://weekly.75team.com/)
 
 </details>
 
