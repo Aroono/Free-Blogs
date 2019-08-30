@@ -1,1 +1,2 @@
 - [19年你应该关注这50款前端热门工具](https://juejin.im/post/5c565602e51d457fce0126c0)
+- [jenkins前端自动构建](https://juejin.im/post/5d3fb5046fb9a06b0935f47d)
